@@ -1,0 +1,7 @@
+Extracting code from the Spotify "play button".
+
+The Spotify desktop client is (among other) listening to 127.0.0.1:4370. It also points *.spotilocal.com to 127.0.0.1.
+
+It provides an interface to control the desktop client and also get it's current status. The data available is among other song playing, volume, private mode, client version and time in track. See the file for an example of the data.
+
+I haven't had time to finish the cleanup or take a closer look at the client's "web server". More is coming.
