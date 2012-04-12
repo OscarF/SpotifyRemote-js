@@ -1,0 +1,44 @@
+// URL: https://wlunlyjfwn.spotilocal.com:4370/remote/pause.json?pause=true&csrf=XXX&oauth=YYY
+{
+	"version": 9, 
+	"client_version": "0.8.2.610.g090a06f8", 
+	"playing": false, 
+	"shuffle": false, 
+	"repeat": false, 
+	"play_enabled": true, 
+	"prev_enabled": true, 
+	"next_enabled": true, 
+	"track": {
+		"track_resource": {
+			"name": "The Button Pusher", 
+			"uri": "spotify:track:1m5frAwTrTeFPT4GCdUXsD", 
+			"location": {
+				"og": "http://open.spotify.com/track/1m5frAwTrTeFPT4GCdUXsD"
+			}
+		}, 
+		"artist_resource": {
+			"name": "The Dubliners", 
+			"uri": "spotify:artist:72RvmgEg2omdlMV9aExO6a", 
+			"location": {
+				"og": "http://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a"
+			}
+		}, 
+		"album_resource": {
+			"name": "Whiskey In the Jar", 
+			"uri": "spotify:album:2WdiE71bon3ceJPWa6iE8o", 
+			"location": {
+				"og": "http://open.spotify.com/album/2WdiE71bon3ceJPWa6iE8o"
+			}
+		}, 
+		"length": 189, 
+		"track_type": "normal"
+	}, 
+	"playing_position": 16.831, 
+	"server_time": 1334150175, 
+	"volume": 0.99984741, 
+	"online": true, 
+	"open_graph_state": {
+		"private_session": false, 
+		"posting_disabled": true
+	}
+}
