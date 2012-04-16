@@ -16,6 +16,7 @@ I don't know if this is going to change in the future but it feels unneccesarry 
 Usage
 ---------
 Avaiable methods:
+
 * addPlayModeChangedListener(callback)
 * addOnClientOpeningListener(callback)
 * addOnClientConnectedListener(callback)
@@ -26,3 +27,4 @@ Avaiable methods:
 * isClientRunning()
 * isTrackPlaying()
 * openSpotifyURI(uri)
+
